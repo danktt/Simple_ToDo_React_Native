@@ -3,11 +3,11 @@ import { StyleSheet } from "react-native";
 export const styles = StyleSheet.create({
 
   item:{
-    backgroundColor: '#fff',
+    backgroundColor: '#FFEDED',
     padding: 15,
     borderRadius: 10,
     borderLeftWidth: 3,
-    borderLeftColor: '#2D46B9',
+    borderLeftColor: '#9D0191',
     flexDirection: 'row',
     alignItems: 'center',
     justifyContent: 'space-between',
@@ -21,7 +21,7 @@ export const styles = StyleSheet.create({
   square:{
     width: 24,
     height: 24,
-    backgroundColor: '#6F69AC',
+    backgroundColor: '#9D0191',
     opacity: 0.4,
     borderRadius: 5,
     marginRight: 15,
@@ -32,7 +32,7 @@ export const styles = StyleSheet.create({
   circular:{
     width: 12,
     height: 12,
-    borderColor: '#95DAC1',
+    borderColor: '#32E0C4',
     borderWidth:2,
     borderRadius: 5,
 

@@ -7,6 +7,7 @@ import {styles} from "./styles"
 
 type TaskProps = {
   text: string,
+
 }
 
 export const Task: React.FC<TaskProps> = ({text}) => {
